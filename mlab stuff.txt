@@ -1,0 +1,5 @@
+https://damp-forest-76970.herokuapp.com/ | https://git.heroku.com/damp-forest-76970.git
+
+MONGODB_URI: mongodb://heroku_sfzhcdc9:kq20j2gc84h70t43ikm2o3d506@ds161483.mlab.com:61483/heroku_sfzhcdc9
+
+mongodb://heroku_sfzhcdc9:kq20j2gc84h70t43ikm2o3d506@ds161483.mlab.com:61483/heroku_sfzhcdc9
